@@ -1,5 +1,5 @@
 package com.sparkTutorial.rdd
-
+// This is just scala rdd testing
 import org.apache.log4j.Level
 import org.apache.log4j.Logger
 import org.apache.spark.SparkConf
